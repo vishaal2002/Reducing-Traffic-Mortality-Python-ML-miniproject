@@ -1,1 +1,1 @@
-# Reducing-Traffic-Mortality-Python-ML-miniproject
+# Reducing Traffic Mortality - Python ML - Miniproject
